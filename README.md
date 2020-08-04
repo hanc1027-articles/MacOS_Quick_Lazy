@@ -19,7 +19,9 @@
 
 
 ### 常用快捷鍵
-1) <key>control</key>+<key>command</key>+<key>F</key>
+1) 全螢幕：<kbd>control</kbd>+<kbd>command</kbd>+<kbd>F</kbd>
+2) 快速替看檔案/資料夾：在檔案/資料夾點一下後，按<kbd>空白鍵</kbd>
+3) 
 
 [⬆️Top](#MacOS偷懶法)
 
@@ -34,6 +36,7 @@
 ### MacOS獨特功能
     1) 預覽程式
     2) 隨處皆可列印(cmd+p) => 輸出成pdf、png等…
+    3) 螢幕錄影、截圖
 
 [⬆️Top](#MacOS偷懶法)
 
@@ -49,13 +52,28 @@
 ---
 
 ### 抓色碼
+有時寫網頁，或設計圖像時，會需要準確的知道某一物品等其色碼為多少，使用MacOS內建的**備忘錄**，即可取得。  
+方法如下：  
+1) 打開備忘錄，隨意新增一則新的文章，隨意輸入一個字以上即可，將其反白。  
+![](./assets/備忘錄查色碼01.png)
+2) 按下組合鍵：<kbd>shift</kbd>+<kbd>command</kbd>+<kbd>C</kbd>。呼叫出「顏色設定」。
+![](./assets/備忘錄查色碼02.png)
+3) 選擇上排圈起來的第二個「顏色尺」，再點選下方圈起來的「滴管」。
+4) 使用滴管開始找尋需要的顏色去點選，再回到「顏色尺」，查看「十六進位顏色」，即可找到其色碼。
 
 [⬆️Top](#MacOS偷懶法)
 
 ---
 
 ### 推薦軟體
-    1) 限時免費軟體
+    - [限時情報王(iOS軟體)](https://apps.apple.com/tw/app/限時情報王/id1119596304)
+    - [Telegram](https://telegram.org)
+    - [iTerm2](https://www.iterm2.com)
+    - [Keka](https://www.keka.io/zh-tw/)
+    - [Color Folder](https://apps.apple.com/tw/app/color-folder-master-%E6%AA%94%E6%A1%88%E5%A4%BE%E9%A1%8F%E8%89%B2%E4%B8%80%E9%8D%B5%E6%9B%B4%E6%94%B9/id1450345160?mt=12)
+    - [AppCleaner](https://freemacsoft.net/appcleaner/)
+    - [Visual Studio Code](https://code.visualstudio.com)
+    - [VLC](https://www.videolan.org/vlc/index.zh-TW.html)
 
 [⬆️Top](#MacOS偷懶法)
 
