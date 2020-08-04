@@ -66,14 +66,14 @@
 ---
 
 ### 推薦軟體
-    - [限時情報王(iOS軟體)](https://apps.apple.com/tw/app/限時情報王/id1119596304)
-    - [Telegram](https://telegram.org)
-    - [iTerm2](https://www.iterm2.com)
-    - [Keka](https://www.keka.io/zh-tw/)
-    - [Color Folder](https://apps.apple.com/tw/app/color-folder-master-%E6%AA%94%E6%A1%88%E5%A4%BE%E9%A1%8F%E8%89%B2%E4%B8%80%E9%8D%B5%E6%9B%B4%E6%94%B9/id1450345160?mt=12)
-    - [AppCleaner](https://freemacsoft.net/appcleaner/)
-    - [Visual Studio Code](https://code.visualstudio.com)
-    - [VLC](https://www.videolan.org/vlc/index.zh-TW.html)
+- [限時情報王(iOS軟體)](https://apps.apple.com/tw/app/限時情報王/id1119596304)
+- [Telegram](https://telegram.org)
+- [iTerm2](https://www.iterm2.com)
+- [Keka](https://www.keka.io/zh-tw/)
+- [Color Folder](https://apps.apple.com/tw/app/color-folder-master-%E6%AA%94%E6%A1%88%E5%A4%BE%E9%A1%8F%E8%89%B2%E4%B8%80%E9%8D%B5%E6%9B%B4%E6%94%B9/id1450345160?mt=12)
+- [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [VLC](https://www.videolan.org/vlc/index.zh-TW.html)
 
 [⬆️Top](#MacOS偷懶法)
 
