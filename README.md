@@ -4,7 +4,6 @@
 - [MacOS偷懶法](#macos%E5%81%B7%E6%87%B6%E6%B3%95)
     - [序言](#%E5%BA%8F%E8%A8%80)
     - [常用快捷鍵](#%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%8D%B5)
-    - [Samba](#samba)
     - [MacOS獨特功能](#macos%E7%8D%A8%E7%89%B9%E5%8A%9F%E8%83%BD)
     - [終端機應用](#%E7%B5%82%E7%AB%AF%E6%A9%9F%E6%87%89%E7%94%A8)
     - [抓色碼](#%E6%8A%93%E8%89%B2%E7%A2%BC)
@@ -21,13 +20,14 @@
 ### 常用快捷鍵
 1) 全螢幕：<kbd>control</kbd>+<kbd>command</kbd>+<kbd>F</kbd>
 2) 快速替看檔案/資料夾：在檔案/資料夾點一下後，按<kbd>空白鍵</kbd>
-3) 
-
-[⬆️Top](#MacOS偷懶法)
-
----
-
-### Samba
+3) Samba(類Windows的網路芳鄰)：回到桌面點選一下，或點Finder，<kbd>command</kbd>+<kbd>K</kbd>。即可輸入IP(像是NAS)，就可連接上。
+4) 增加桌面：任何地方四指在軌跡板上往上滑，滑鼠移動右上角，按下加號，即產生。
+5) 強制結束應用程式：<kbd>option</kbd>+<kbd>command</kbd>+<kbd>esc</kbd>
+6) 前往資料夾：處在Finder的程式時，按下<kbd>shift</kbd>+<kbd>command</kbd>+<kbd>G</kbd>
+7) 螢幕截圖/錄影：
+    - 全螢幕截圖：<kbd>shift</kbd>+<kbd>command</kbd>+<kbd>3</kbd>
+    - 選擇區域截圖：<kbd>shift</kbd>+<kbd>command</kbd>+<kbd>4</kbd>
+    - 螢幕錄影：<kbd>shift</kbd>+<kbd>command</kbd>+<kbd>5</kbd>
 
 [⬆️Top](#MacOS偷懶法)
 
