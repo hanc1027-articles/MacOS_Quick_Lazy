@@ -29,6 +29,7 @@
     - 選擇區域截圖：<kbd>shift</kbd>+<kbd>command</kbd>+<kbd>4</kbd>
     - 螢幕錄影：<kbd>shift</kbd>+<kbd>command</kbd>+<kbd>5</kbd>
 8) 快速查看Mac ip位址：按住<kbd>option</kbd>，滑鼠點選右上方的Wifi圖示。
+9) 文件插入超連結：選取想插入超連結的字串或圖片，按下<kbd>command</kbd>+<kbd>K</kbd>。
 
 [⬆️Top](#MacOS偷懶法)
 
