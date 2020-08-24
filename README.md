@@ -47,11 +47,11 @@
 
 ### 終端機應用
    1) iTerm2(或Terminal)  
-    - <kbd>command</kbd>+<kbd>R</kbd> 或 <kbd>ctrl</kbd>+<kbd>L</kbd> => 快速清理  
-    - <kbd>ctrl</kbd>+<kbd>R</kbd> => 搜尋執行過的指令  
-    - <kbd>ctrl</kbd>+<kbd>A</kbd> => 游標移回開頭位置  
-    - <kbd>ctrl</kbd>+<kbd>E</kbd> => 游標移回最後位置  
-    - [其他可參考指令或偷懶法](http://jdev.tw/blog/3599/linux-terminal-commands-and-shortcuts)  
+        - <kbd>command</kbd>+<kbd>R</kbd> 或 <kbd>ctrl</kbd>+<kbd>L</kbd> => 快速清理  
+        - <kbd>ctrl</kbd>+<kbd>R</kbd> => 搜尋執行過的指令  
+        - <kbd>ctrl</kbd>+<kbd>A</kbd> => 游標移回開頭位置  
+        - <kbd>ctrl</kbd>+<kbd>E</kbd> => 游標移回最後位置  
+        - [其他可參考指令或偷懶法](http://jdev.tw/blog/3599/linux-terminal-commands-and-shortcuts)  
    2) shell script
    3) link
 
