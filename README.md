@@ -36,19 +36,24 @@
 ---
 
 ### MacOS獨特功能
-    1) 預覽程式
-    2) 隨處皆可列印(cmd+p) => 輸出成pdf、png等…
-    3) 螢幕錄影、截圖
-    4) 「鑰匙圈存取」，取得曾連線過的密碼
+   1) 預覽程式
+   2) 隨處皆可列印(cmd+p) => 輸出成pdf、png等…
+   3) 螢幕錄影、截圖
+   4) 「鑰匙圈存取」，取得曾連線過的密碼
 
 [⬆️Top](#MacOS偷懶法)
 
 ---
 
 ### 終端機應用
-    1) iTerm2 - cmd+R => 快速清理
-    2) shell script
-    3) link
+   1) iTerm2(或Terminal)  
+    - <kbd>command</kbd>+<kbd>R</kbd> 或 <kbd>ctrl</kbd>+<kbd>L</kbd> => 快速清理
+    - <kbd>ctrl</kbd>+<kbd>R</kbd> => 搜尋執行過的指令
+    - <kbd>ctrl</kbd>+<kbd>A</kbd> => 游標移回開頭位置
+    - <kbd>ctrl</kbd>+<kbd>E</kbd> => 游標移回最後位置
+    - [其他可參考指令或偷懶法](http://jdev.tw/blog/3599/linux-terminal-commands-and-shortcuts)
+   2) shell script
+   3) link
 
 [⬆️Top](#MacOS偷懶法)
 
